@@ -13,8 +13,24 @@ Install git (If it's not already installed)
 ```
 sudo apt install -y git
 ```
-Download The SetNix Tool from Github
+Download the SetNix Tool from Github
 
 ```
 git clone https://github.com/LusSENTA/SetNix-Tool/
+```
+
+Open folder
+
+```
+cd SetNix-Tool
+```
+Make The SetNIx Tool executable
+
+```
+sudo chmod +x SetNix.sh
+```
+Run the SetNix Tool
+
+```
+./SetNix.sh
 ```
