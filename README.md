@@ -10,11 +10,11 @@ The SetNix Tool is not for Installing a Linux disto, but instead for Downloading
 
 Install git (If it's not already installed)
 
-'''
+```
 sudo apt install -y git
-'''
+```
 Download The SetNix Tool from Github
 
-'''
+```
 git clone https://github.com/LusSENTA/SetNix-Tool/
-'''
+```
