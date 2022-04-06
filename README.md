@@ -1,6 +1,6 @@
 # SetNix Tool
 
-The SetNix Tool is a script used for setting up Debian/Ubuntu based Linux distos, running xfce 4.
+The SetNix Tool is a script for setting up Debian/Ubuntu based Linux distos, running xfce 4.
 
 ## Note
 
