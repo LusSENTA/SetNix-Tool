@@ -1,1 +1,1 @@
-# SetNix-Tool
+# SetNix Tool
